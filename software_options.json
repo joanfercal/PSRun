@@ -1,0 +1,224 @@
+{
+    "Normal": [
+        {"Name": "Edge", "WingetName": "Microsoft.Edge"},
+        {"Name": "7-Zip", "WingetName": "7zip.7zip"},
+        {"Name": "GeForce Experience", "WingetName": "NVIDIA.GeForceExperience"},
+        {"Name": "Google Chrome", "WingetName": "Google.Chrome"},
+        {"Name": "VLC Media Player", "WingetName": "VideoLAN.VLC"},
+        {"Name": "Acrobat Reader", "WingetName": "Adobe.AdobeAcrobatReaderDC"},
+        {"Name": "Malwarebytes", "WingetName": "Malwarebytes.Malwarebytes"},
+        {"Name": "Bitdefender", "WingetName": "Bitdefender.Bitdefender"},
+        {"Name": "WhatsApp", "WingetName": "WhatsApp.WhatsApp"},
+        {"Name": "Messenger", "WingetName": "Facebook.Messenger"},
+        {"Name": "AnyDesk", "WingetName": "AnyDeskSoftwareGmbH.AnyDesk"},
+        {"Name": "Bitwarden", "WingetName": "Bitwarden.Bitwarden"},
+        {"Name": "Inkscape", "WingetName": "Inkscape.Inkscape"},
+        {"Name": "Gimp", "WingetName": "GIMP.GIMP"},
+        {"Name": "Paint.NET", "WingetName": "dotPDN.PaintDotNet"}
+        
+    ],
+    "Power": [
+        {"Name": "Everything", "WingetName": "voidtools.Everything"},
+        {"Name": "Everything Toolbar", "WingetName": "stnkl.EverythingToolbar"},
+        {"Name": "PowerToys", "WingetName": "Microsoft.PowerToys"},
+        {"Name": "AutoHotkey", "WingetName": "AutoHotkey.AutoHotkey"},
+        {"Name": "Crystal Disk Info", "WingetName": "CrystalDewWorld.CrystalDiskInfo"},
+        {"Name": "Crystal Disk Mark", "WingetName": "CrystalDewWorld.CrystalDiskMark"},
+        {"Name": "Ubuntu", "WingetName": "Canonical.Ubuntu"},
+        {"Name": "WinDirStat", "WingetName": "WinDirStat.WinDirStat"},
+        {"Name": "VirtualBox", "WingetName": "Oracle.VirtualBox"},
+        {"Name": "Cloudflared", "WingetName": "Cloudflare.cloudflared"},
+        {"Name": "FileZilla", "WingetName": "TimKosse.FileZillaClient"},
+        {"Name": "WSA (Android)", "WingetName": "9P3395VX91NR"},
+        {"Name": "WSA SideLoader", "WingetName": "infinitepower18.WSASideloader"},
+        {"Name": "Microsoft Network Monitor", "WingetName": "Microsoft.NetMon"},
+        {"Name": "RD Connection Manager", "WingetName": "Microsoft.Sysinternals.RDCMan"},
+        {"Name": "Microsoft PC Manager", "WingetName": "Microsoft.PCManager.CN"},
+        {"Name": "Desktops", "WingetName": "Microsoft.Sysinternals.Desktops"}
+    ],
+    "Developer": [
+        {"Name": "Visual Studio Code", "WingetName": "Microsoft.VisualStudioCode"},
+        {"Name": "Windows Terminal", "WingetName": "Microsoft.WindowsTerminal"},
+        {"Name": "Oh My Posh", "WingetName": "JanDeDobbeleer.OhMyPosh"},
+        {"Name": "Git", "WingetName": "Git.Git"},
+        {"Name": "Docker Desktop", "WingetName": "Docker.DockerDesktop"},
+        {"Name": "Python 3", "WingetName": "Python.Python.3"},
+        {"Name": "Python 3.11", "WingetName": "Python.Python.3.11"},
+        {"Name": "Tailscale", "WingetName": "tailscale.tailscale"},
+        {"Name": "Powershell 7", "WingetName": "Microsoft.PowerShell"},
+        {"Name": "DevToys", "WingetName": "9PGCV4V3BK4W"},
+        {"Name": "Process Monitor", "WingetName": "Microsoft.Sysinternals.ProcessMonitor"},
+        {"Name": "Process Explorer", "WingetName": "Microsoft.Sysinternals.ProcessExplorer"},
+        {"Name": "Autoruns", "WingetName": "Microsoft.Sysinternals.Autoruns"},
+        {"Name": "SQL Server 2019", "WingetName": "Microsoft.SQLServer.2019.Express"},
+        {"Name": "VS Community 2022", "WingetName": "Microsoft.VisualStudio.2022.Community"},
+        {"Name": "Volumouse", "WingetName": "NirSoft.Volumouse"},
+        {"Name": "NodeJS", "WingetName": "OpenJS.NodeJS"},
+        {"Name": "Sublime Text", "WingetName": "SublimeHQ.SublimeText.4"},
+        {"Name": "PuTTY", "WingetName": "PuTTY.PuTTY"},
+        {"Name": "NK2Edit", "WingetName": "NirSoft.NK2Edit"}
+    ],
+    "Utilities": [
+        {"Name": "qBittorrent", "WingetName": "qbittorrent.qBittorrent"},
+        {"Name": "Transmission", "WingetName": "Transmission.Transmission"},
+        {"Name": "Elgato Stream Deck", "WingetName": "Elgato.StreamDeck"},
+        {"Name": "Windscribe", "WingetName": "Windscribe.Windscribe"},
+        {"Name": "DupeGuru", "WingetName": "DupeGuru.DupeGuru"},
+        {"Name": "HWiNFO", "WingetName": "REALiX.HWiNFO"},
+        {"Name": "TeamViewer", "WingetName": "TeamViewer.TeamViewer"},
+        {"Name": "WinDynamicDesktop", "WingetName": "t1m0thyj.WinDynamicDesktop"},
+        {"Name": "WingetUI", "WingetName": "SomePythonThings.WingetUIStore"},
+        {"Name": "Mouse W/O Borders", "WingetName": "Microsoft.MouseWithoutBorders"},
+        {"Name": "WhoisThisDomain", "WingetName": "NirSoft.WhoisThisDomain"},
+        {"Name": "VideoCacheView", "WingetName": "NirSoft.VideoCacheView"},
+        {"Name": "ShellExView", "WingetName": "NirSoft.ShellExView"},
+        {"Name": "IPNetInfo", "WingetName": "NirSoft.IPNetInfo"},
+        {"Name": "DownTester", "WingetName": "NirSoft.DownTester"},
+        {"Name": "BlueScreenView", "WingetName": "NirSoft.BlueScreenView"},
+        {"Name": "NirCmd", "WingetName": "NirSoft.NirCmd"},
+        {"Name": "AdvancedRun", "WingetName": "NirSoft.AdvancedRun"},
+        {"Name": "Wireless Network Watcher", "WingetName": "NirSoft.WirelessNetworkWatcher"},
+        {"Name": "Balena Etcher", "WingetName": "Balena.Etcher"},
+        {"Name": "File Optimizer", "WingetName": "Nikkho.FileOptimizer"}
+
+    ],
+    "Office": [
+        {"Name": "Microsoft Teams", "WingetName": "Microsoft.Teams"},
+        {"Name": "Microsoft Office", "WingetName": "Microsoft.Office"},
+        {"Name": "Microsoft OneDrive", "WingetName": "Microsoft.OneDrive"},
+        {"Name": "Zoom", "WingetName": "Zoom.Zoom"},
+        {"Name": "Grammarly Office", "WingetName": "Grammarly.ForOffice"},
+        {"Name": "Grammarly Windows", "WingetName": "Grammarly.ForWindows"},
+        {"Name": "Libre Office", "WingetName": "TheDocumentFoundation.LibreOffice"},
+        {"Name": "Logitech Options+", "WingetName": "Logitech.OptionsPlus"}
+    ],
+    "Games": [
+        {"Name": "Retroarch", "WingetName": "libretro.RetroArch"},
+        {"Name": "Sunshine", "WingetName": "LizardByte.Sunshine"},
+        {"Name": "Steam", "WingetName": "Valve.Steam"},
+        {"Name": "League of Legends", "WingetName": "RiotGames.LeagueOfLegends.LA1"},
+        {"Name": "Epic Games", "WingetName": "EpicGames.EpicGamesLauncher"},
+        {"Name": "Origin", "WingetName": "ElectronicArts.Origin"},
+        {"Name": "Battle.net", "WingetName": "Blizzard.BattleNet"},
+        {"Name": "Moonlight", "WingetName": "MoonlightGameStreamingProject.Moonlight"},
+        {"Name": "Parsec", "WingetName": "Parsec.Parsec"},
+        {"Name": "Playnite", "WingetName": "Playnite.Playnite"}
+
+    ],
+    "Media": [
+        {"Name": "YTMusic", "WingetName": "Ytmdesktop.Ytmdesktop"},
+        {"Name": "Krita", "WingetName": "KDE.Krita"},
+        {"Name": "Spotify", "WingetName": "Spotify.Spotify"},
+        {"Name": "Discord", "WingetName": "Discord.Discord"},
+        {"Name": "HandBrake", "WingetName": "HandBrake.HandBrake"},
+        {"Name": "Gimp", "WingetName": "GIMP.GIMP"},
+        {"Name": "VoiceMod", "WingetName": "Voicemod.Voicemod"},
+        {"Name": "OBS Studio", "WingetName": "obsproject.obs-studio"},
+        {"Name": "Calibre", "WingetName": "calibre.calibre"}
+    ],
+    "Registry": [
+        {
+            "Name": "BitWarden",
+            "Key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Edge\\ExtensionInstallForcelist\\",
+            "ValueName": "1",
+            "ValueData": "jbkfoedolllekgbhcbcoahefnbanhhlh"
+        },
+        {
+            "Name": "OneTab",
+            "Key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Edge\\ExtensionInstallForcelist\\",
+            "ValueName": "2",
+            "ValueData": "hoimpamkkoehapgenciaoajfkfkpgfop"
+        },
+        {
+            "Name": "Dark Reader",
+            "Key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Edge\\ExtensionInstallForcelist\\",
+            "ValueName": "3",
+            "ValueData": "ifoakfbpdcdoeenechcleahebpibofpc"
+        },  
+        {
+            "Name": "uBlock Origin",
+            "Key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Edge\\ExtensionInstallForcelist\\",
+            "ValueName": "4",
+            "ValueData": "odfafepnkmbhccpbejgmiehpchacaeak"
+        },
+        {
+            "Name": "Scrollbar",
+            "Key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Edge\\Extensions\\odfafepnkmbhccpbejgmiehpchacaeak",
+            "ValueName": "update_url",
+            "ValueData": "https://clients2.google.com/service/update2/crx"
+        },             
+        {
+            "Name": "Microsoft 365 Online",
+            "Key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Edge\\ExtensionInstallForcelist\\",
+            "ValueName": "6",
+            "ValueData": "gggmmkjegpiggikcnhidnjjhmicpibll"
+        } ,
+        {
+            "Name": "Keepa",
+            "Key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Edge\\ExtensionInstallForcelist\\",
+            "ValueName": "7",
+            "ValueData": "ejefaeioamebhekmfaclajddbpnnobje"
+        },
+        {
+            "Name": "Pin All",
+            "Key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Edge\\ExtensionInstallForcelist\\",
+            "ValueName": "8",
+            "ValueData": "cpncfbofpjgdfpmdacbagkaoglmkhnne"
+        },
+        {
+            "Name": "Apps",
+            "Key": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Edge",
+            "ValueName": "WebAppInstallForceList",
+            "ValueData": "[{\"custom_name\": \"TV\",\"create_desktop_shortcut\": true, \"default_launch_container\": \"window\", \"install_as_shortcut\": true, \"url\": \"https://tv.rmtx.pro\"},{\"custom_name\": \"RMM\",\"create_desktop_shortcut\": true, \"default_launch_container\": \"window\", \"install_as_shortcut\": true, \"url\": \"https://rmm.rmtx.pro\"},{\"custom_name\": \"PVE\",\"create_desktop_shortcut\": true, \"default_launch_container\": \"window\", \"install_as_shortcut\": true, \"url\": \"https://pve.rmtx.pro\"},{\"custom_name\": \"NPM\",\"create_desktop_shortcut\": true, \"default_launch_container\": \"window\", \"install_as_shortcut\": true, \"url\": \"https://npm.rmtx.pro\"}]"            
+        }
+    ],
+    "Optional": [
+        {
+            "Name": "VMP",
+            "FeatureName": "VirtualMachinePlatform"
+        },
+        {
+            "Name": "WSL",
+            "FeatureName": "Microsoft-Windows-Subsystem-Linux"
+        },
+        {
+            "Name": "Containers",
+            "FeatureName": "Containers"
+        },
+        {
+            "Name": "Hyper-V",
+            "FeatureName": "Microsoft-Hyper-V-All"
+        }
+    ],
+    "Updates": [
+        {
+            "Name": "VirtualMachinePlatform",
+            "FeatureName": "VirtualMachinePlatform"
+        },
+        {
+            "Name": "Microsoft-Windows-Subsystem-Linux",
+            "FeatureName": "Microsoft-Windows-Subsystem-Linux"
+        }
+    ],
+    "GPO": [
+        {
+            "Name": "VirtualMachinePlatform",
+            "FeatureName": "VirtualMachinePlatform"
+        },
+        {
+            "Name": "Microsoft-Windows-Subsystem-Linux",
+            "FeatureName": "Microsoft-Windows-Subsystem-Linux"
+        }
+    ],
+    "Custom": [
+        {
+          "Name": "SampleSoftware1",
+          "InstallerUrl": "https://example.com/SampleSoftware1.msi"
+        },
+        {
+          "Name": "SampleSoftware2",
+          "InstallerUrl": "https://example.com/SampleSoftware2.msi"
+        }
+      ]
+}
+
